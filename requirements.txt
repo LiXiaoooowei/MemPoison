@@ -4,7 +4,7 @@ langchain_huggingface==1.2.2
 langchain_chroma==1.1.0
 langmem==0.0.30
 openai==2.32.0
-litellm==1.83.14
+litellm==1.108.4
 ollama==0.6.1
 
 torch==2.11.0
