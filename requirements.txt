@@ -24,3 +24,6 @@ seaborn==0.13.2
 pydantic==2.13.3
 python-dotenv==1.2.2
 tqdm==4.67.3
+
+# for mem0
+mem0ai==1.0.11
